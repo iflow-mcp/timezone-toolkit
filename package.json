@@ -1,5 +1,5 @@
 {
-  "name": "@cicatriz/timezone-toolkit",
+  "name": "@iflow-mcp/timezone-toolkit",
   "version": "1.0.1",
   "description": "Advanced MCP server providing comprehensive time and timezone tools",
   "main": "dist/index.js",
